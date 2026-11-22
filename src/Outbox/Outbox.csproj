@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Outbox</RootNamespace>
+    <Description>Transactional outbox and inbox for .NET: atomic event capture, leased relay with per-key ordering, retries, dead letters, idempotent consumers.</Description>
+  </PropertyGroup>
+</Project>
