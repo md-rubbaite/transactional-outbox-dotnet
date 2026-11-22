@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Outbox.Postgres</RootNamespace>
+    <Description>PostgreSQL outbox and inbox stores built on System.Data.Common.DbDataSource. Pass an NpgsqlDataSource.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../Outbox/Outbox.csproj" />
+    <EmbeddedResource Include="Sql/*.sql" LogicalName="Outbox.Postgres.Sql.%(Filename).sql" />
+  </ItemGroup>
+</Project>
