@@ -120,4 +120,6 @@ Built by **Rubbaite T. Hassain**, Software Architect and founder of
 [Datazo InfoTech](https://www.datazoinfotech.com.bd). We build event-driven fintech and healthcare
 platforms. Get in touch if you need this in production.
 
+Architecture, requirements and review by Rubbaite T. Hassain; implementation AI-assisted.
+
 MIT licensed.
